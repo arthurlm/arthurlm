@@ -1,4 +1,5 @@
 [![Arthurlm's GitHub stats](https://github-readme-stats.vercel.app/api?username=arthurlm&show_icons=true&theme=gruvbox)](https://github.com/arthurlm)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthurlm)](https://github.com/arthurlm)
 
 <!--
 **arthurlm/arthurlm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
